@@ -10,13 +10,22 @@ Databas: MongoDB
 ______
 
 Npm-paket som är installerade:
+
 npm express-generator --no-view
+
 npm install
+
 npm cors
+
 npm mongodb
+
 npm monoose
+
 npm i nodemon 
+
 ______
 Befintlig användaruppgifter:
+
 Användarnamn: admin
+
 Lösenord: admin
