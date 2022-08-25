@@ -1,0 +1,25 @@
+GET http://localhost:3000/api/users/
+###
+POST http://localhost:3000/api/users/login
+Content-Type: application/json
+
+{
+    "username": "tester",
+    "password": "tester",
+    "subscriber": false
+}
+
+###
+
+###
+PUT http://localhost:3000/api/users/change
+Content-Type: application/json
+
+{
+    "_id": "63034cc268fe08b3a99fd04a",
+    "username": "yeas",
+    "password": "test",
+    "subscribed": false
+}
+
+###

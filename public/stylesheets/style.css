@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+button{
+  border-radius: 10px;
+  min-width: 100px;
+  min-height: 30px;
+  background-color: rgba(127, 255, 212, 0.433);
+}
+a{
+  text-decoration: none;
+  font-size: 15px;
+  color: black;
+
+}
+#adminPassword{
+  border-radius: 10px;
+}
+#adminBtn{
+  border-radius: 5px;
+  min-width: 100px;
+  min-height: 30px;
+  
+}
